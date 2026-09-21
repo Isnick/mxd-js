@@ -83,8 +83,7 @@ add +="#L1316#"+小兔+"#b终极BOSS#l\r\n\r\n";
 		add += "#L82##d"+小黄星+"在线充值#l\r\n";
 		add += "\t#L79##d"+小黄星+"回到起点#l";
 		add += "#L801##d"+小黄星+"回到新手#l";
-		add += "#L29##d"+小黄星+"测试功能#l\r\n";
-		add += "\t#L83##d"+小黄星+"倍率调整#l";
+		add += "#L29##d"+小黄星+"测试功能#l";
 		
 		}
 		
@@ -275,10 +274,6 @@ if (selection == 802) {
 				cm.dispose();
                 cm.openNpc(3003332, "在线充值");
 				
-	    }
-			if (selection == 83) {
-				cm.dispose();
-                cm.openNpc(3003332, "倍率调整");
 	    }
         if (selection == 801) {
 				cm.dispose();
